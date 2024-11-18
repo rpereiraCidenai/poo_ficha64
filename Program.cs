@@ -17,6 +17,7 @@
 
             // Exibir histórico de consultas
             Console.WriteLine(paciente.ExibirConsultas());
+            //
         }
     }
 }
